@@ -24,7 +24,7 @@ jobs:
           node-version: "20"
 
       - name: Run pipeline (limit 100)
-        run: node src/index.js --limit 100
+        run: node src/index.js --limit 150
 
       - name: Commit & push if changed
         run: |
