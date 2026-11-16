@@ -2,9 +2,9 @@
 
 Auto-refreshed by GitHub Actions. **Only reachable servers are listed.**
 
-- Last update: **Sun, 15 Nov 2026 23:21:41 GMT**
-- Healthy servers found: **61**
-- Saved in this repo: **61** (limit 150)
+- Last update: **Mon, 16 Nov 2026 02:55:43 GMT**
+- Healthy servers found: **57**
+- Saved in this repo: **57** (limit 150)
 
 ## Usage
 
@@ -19,64 +19,60 @@ Auto-refreshed by GitHub Actions. **Only reachable servers are listed.**
 
 | Country | Host | IP | Port | Proto | Ping | Speed | Score | Config |
 |---------|------|----|------|-------|------|-------|-------|--------|
-| US | undefined | 174.85.114.42 | 1893 | tcp | 20ms | 5.75 | 43.9 | [⬇](./configs/US_25cfdfc489.ovpn) |
-| JP | undefined | 219.100.37.200 | 443 | tcp | 9ms | 20.90 | 29.8 | [⬇](./configs/JP_127a9848e5.ovpn) |
-| JP | undefined | 219.100.37.17 | 443 | tcp | 22ms | 29.90 | 23.8 | [⬇](./configs/JP_f1965810b2.ovpn) |
-| JP | undefined | 219.100.37.184 | 443 | tcp | 26ms | 16.71 | 23.6 | [⬇](./configs/JP_9bc55124d3.ovpn) |
-| JP | undefined | 219.100.37.208 | 443 | tcp | 20ms | 43.28 | 22.6 | [⬇](./configs/JP_57afa72c30.ovpn) |
-| JP | undefined | 219.100.37.64 | 443 | tcp | 18ms | 12.33 | 22.5 | [⬇](./configs/JP_ba160ed617.ovpn) |
-| JP | undefined | 219.100.37.86 | 443 | tcp | 9ms | 18.62 | 22.5 | [⬇](./configs/JP_090b27962a.ovpn) |
-| JP | undefined | 219.100.37.123 | 443 | tcp | 23ms | 18.06 | 20.3 | [⬇](./configs/JP_5c9194493e.ovpn) |
-| JP | undefined | 219.100.37.190 | 443 | tcp | 16ms | 15.53 | 20.0 | [⬇](./configs/JP_9fb1484721.ovpn) |
-| JP | undefined | 219.100.37.178 | 443 | tcp | 17ms | 43.12 | 19.6 | [⬇](./configs/JP_3b52959a2a.ovpn) |
-| JP | undefined | 219.100.37.162 | 443 | tcp | 8ms | 22.84 | 19.5 | [⬇](./configs/JP_89282e2636.ovpn) |
-| JP | undefined | 219.100.37.50 | 443 | tcp | 15ms | 41.55 | 18.0 | [⬇](./configs/JP_eec5de9692.ovpn) |
-| JP | undefined | 219.100.37.215 | 443 | tcp | 20ms | 13.14 | 17.8 | [⬇](./configs/JP_1f021040a0.ovpn) |
-| JP | undefined | 219.100.37.161 | 443 | tcp | 15ms | 23.93 | 15.7 | [⬇](./configs/JP_7aa8761704.ovpn) |
-| JP | undefined | 60.127.143.10 | 1840 | tcp | 5ms | 2.71 | 15.0 | [⬇](./configs/JP_2792dada65.ovpn) |
-| JP | undefined | 124.32.30.64 | 1603 | tcp | 3ms | 18.58 | 14.9 | [⬇](./configs/JP_1191904346.ovpn) |
-| JP | undefined | 60.125.195.98 | 1615 | tcp | 4ms | 46.13 | 14.8 | [⬇](./configs/JP_9995f86f14.ovpn) |
-| JP | undefined | 115.179.206.241 | 443 | tcp | 13ms | 7.61 | 14.8 | [⬇](./configs/JP_88ab13b737.ovpn) |
-| JP | undefined | 60.126.0.2 | 1730 | tcp | 6ms | 45.04 | 14.6 | [⬇](./configs/JP_87e02b3062.ovpn) |
-| JP | undefined | 219.100.37.97 | 443 | tcp | 30ms | 67.40 | 14.1 | [⬇](./configs/JP_8976e8606d.ovpn) |
-| JP | undefined | 219.100.37.7 | 443 | tcp | 12ms | 20.34 | 14.0 | [⬇](./configs/JP_c366e8a601.ovpn) |
-| MX | undefined | 189.186.30.193 | 992 | tcp | 39ms | 6.54 | 13.5 | [⬇](./configs/MX_aca4eff33b.ovpn) |
-| JP | undefined | 219.100.37.56 | 443 | tcp | 26ms | 18.03 | 13.2 | [⬇](./configs/JP_6dd9ffc90e.ovpn) |
-| CA | undefined | 70.79.233.9 | 995 | tcp | 16ms | 15.26 | 13.0 | [⬇](./configs/CA_d1a444290b.ovpn) |
-| KR | undefined | 220.79.186.206 | 995 | tcp | 31ms | 52.58 | 12.8 | [⬇](./configs/KR_9addeea99a.ovpn) |
-| JP | undefined | 219.100.37.9 | 443 | tcp | 25ms | 14.43 | 12.3 | [⬇](./configs/JP_4c3cd85ede.ovpn) |
-| JP | undefined | 126.103.157.140 | 1834 | tcp | 4ms | 62.69 | 10.6 | [⬇](./configs/JP_44ee385b4b.ovpn) |
-| JP | undefined | 27.84.184.174 | 1292 | tcp | 5ms | 59.64 | 10.1 | [⬇](./configs/JP_ee49acf6af.ovpn) |
-| KR | undefined | 1.229.239.249 | 995 | tcp | 38ms | 45.28 | 9.2 | [⬇](./configs/KR_ed5966ab2b.ovpn) |
-| KR | undefined | 222.118.238.58 | 995 | tcp | 32ms | 7.32 | 8.7 | [⬇](./configs/KR_361743ae2b.ovpn) |
-| JP | undefined | 60.69.234.104 | 1556 | tcp | 11ms | 49.69 | 8.7 | [⬇](./configs/JP_e612d95b63.ovpn) |
-| JP | undefined | 60.92.47.68 | 1220 | tcp | 15ms | 9.17 | 8.2 | [⬇](./configs/JP_7c14f0957f.ovpn) |
-| KR | undefined | 121.136.113.227 | 443 | tcp | 28ms | 8.50 | 7.9 | [⬇](./configs/KR_0ff247c838.ovpn) |
-| JP | undefined | 219.104.73.9 | 1300 | tcp | 4ms | 86.89 | 7.7 | [⬇](./configs/JP_d36497987b.ovpn) |
-| JP | undefined | 123.48.6.30 | 1512 | tcp | 14ms | 80.11 | 7.3 | [⬇](./configs/JP_2fd649b013.ovpn) |
-| KR | undefined | 49.175.216.74 | 1448 | tcp | 43ms | 37.59 | 7.0 | [⬇](./configs/KR_2342aece8e.ovpn) |
-| JP | undefined | 182.166.111.12 | 1293 | tcp | 7ms | 34.64 | 7.0 | [⬇](./configs/JP_c82f444f11.ovpn) |
-| JP | undefined | 113.213.196.228 | 1267 | tcp | 13ms | 22.11 | 7.0 | [⬇](./configs/JP_50ef6f4bb1.ovpn) |
-| JP | undefined | 180.199.210.133 | 1954 | tcp | 12ms | 9.46 | 7.0 | [⬇](./configs/JP_476d8dd8d1.ovpn) |
-| JP | undefined | 122.145.218.196 | 1633 | tcp | 11ms | 7.73 | 6.9 | [⬇](./configs/JP_9c3bec67be.ovpn) |
-| RO | undefined | 217.138.212.62 | 443 | tcp | 3ms | 50.54 | 6.9 | [⬇](./configs/RO_33f7be0b36.ovpn) |
-| JP | undefined | 114.166.87.46 | 1671 | tcp | 5ms | 5.60 | 6.8 | [⬇](./configs/JP_53b284c656.ovpn) |
-| JP | undefined | 180.27.15.79 | 1947 | tcp | 11ms | 56.17 | 6.8 | [⬇](./configs/JP_2b53114a9e.ovpn) |
-| JP | undefined | 223.133.135.144 | 1378 | tcp | 11ms | 94.45 | 6.7 | [⬇](./configs/JP_949cdfad97.ovpn) |
-| KR | undefined | 220.126.211.10 | 1991 | tcp | 31ms | 67.92 | 6.3 | [⬇](./configs/KR_11b615c7ca.ovpn) |
-| KR | undefined | 58.233.80.160 | 995 | tcp | 32ms | 43.30 | 6.2 | [⬇](./configs/KR_3e07b27751.ovpn) |
-| RU | undefined | 109.235.25.103 | 1907 | tcp | 22ms | 2.88 | 5.7 | [⬇](./configs/RU_7545a342a3.ovpn) |
-| KR | undefined | 112.185.71.174 | 1648 | tcp | 26ms | 5.53 | 5.6 | [⬇](./configs/KR_0e95e56591.ovpn) |
-| KR | undefined | 121.153.164.183 | 995 | tcp | 27ms | 3.96 | 5.6 | [⬇](./configs/KR_52f6041959.ovpn) |
-| KR | undefined | 211.213.23.156 | 1366 | tcp | 37ms | 49.00 | 5.5 | [⬇](./configs/KR_bfc40d0ddf.ovpn) |
-| KR | undefined | 123.248.163.147 | 1814 | tcp | 47ms | 8.53 | 5.2 | [⬇](./configs/KR_e5e617e39b.ovpn) |
-| KR | undefined | 183.99.134.49 | 995 | tcp | 31ms | 0.50 | 5.1 | [⬇](./configs/KR_cd5ac45ab6.ovpn) |
-| RU | undefined | 77.35.221.5 | 1321 | tcp | 135ms | 9.58 | 4.7 | [⬇](./configs/RU_2270e7b185.ovpn) |
-| US | undefined | 47.141.29.68 | 1845 | tcp | 24ms | 11.14 | 4.6 | [⬇](./configs/US_6e1e6ab291.ovpn) |
-| FR | undefined | 92.162.199.24 | 1883 | tcp | 0ms | 12.71 | 4.5 | [⬇](./configs/FR_67e4281ed3.ovpn) |
+| JP | undefined | 219.100.37.98 | 443 | tcp | 14ms | 63.57 | 30.7 | [⬇](./configs/JP_9c54ebb16c.ovpn) |
+| JP | undefined | 219.100.37.206 | 443 | tcp | 10ms | 24.38 | 30.1 | [⬇](./configs/JP_c1c9fea324.ovpn) |
+| JP | undefined | 219.100.37.179 | 443 | tcp | 29ms | 28.04 | 28.3 | [⬇](./configs/JP_e907b46cb2.ovpn) |
+| JP | undefined | 219.100.37.162 | 443 | tcp | 11ms | 32.07 | 27.4 | [⬇](./configs/JP_89282e2636.ovpn) |
+| JP | undefined | 219.100.37.225 | 443 | tcp | 9ms | 22.83 | 23.9 | [⬇](./configs/JP_e2b85212be.ovpn) |
+| JP | undefined | 219.100.37.56 | 443 | tcp | 18ms | 24.41 | 20.2 | [⬇](./configs/JP_6dd9ffc90e.ovpn) |
+| JP | undefined | 219.100.37.178 | 443 | tcp | 14ms | 60.13 | 19.4 | [⬇](./configs/JP_3b52959a2a.ovpn) |
+| JP | undefined | 219.100.37.53 | 443 | tcp | 13ms | 33.27 | 19.0 | [⬇](./configs/JP_6095cdca21.ovpn) |
+| JP | undefined | 219.100.37.10 | 443 | tcp | 10ms | 28.79 | 18.2 | [⬇](./configs/JP_b3ca29b478.ovpn) |
+| JP | undefined | 219.100.37.111 | 443 | tcp | 16ms | 21.69 | 18.2 | [⬇](./configs/JP_51ce0f5f5f.ovpn) |
+| JP | undefined | 219.100.37.87 | 443 | tcp | 25ms | 24.14 | 17.7 | [⬇](./configs/JP_6b179f64eb.ovpn) |
+| JP | undefined | 124.98.173.228 | 1663 | tcp | 7ms | 8.35 | 15.7 | [⬇](./configs/JP_027d8f6930.ovpn) |
+| JP | undefined | 126.130.164.3 | 1557 | tcp | 3ms | 39.97 | 15.4 | [⬇](./configs/JP_dadee7f104.ovpn) |
+| KR | undefined | 118.34.210.174 | 1819 | tcp | 30ms | 10.70 | 15.0 | [⬇](./configs/KR_2151042772.ovpn) |
+| KR | undefined | 121.142.148.62 | 995 | tcp | 27ms | 6.34 | 14.8 | [⬇](./configs/KR_2c870c6fa7.ovpn) |
+| KR | undefined | 14.36.183.252 | 995 | tcp | 32ms | 41.70 | 14.4 | [⬇](./configs/KR_21bd1bb830.ovpn) |
+| KR | undefined | 49.174.213.183 | 1757 | tcp | 36ms | 9.14 | 14.2 | [⬇](./configs/KR_37edd26ee6.ovpn) |
+| KR | undefined | 211.196.123.188 | 995 | tcp | 30ms | 40.31 | 14.0 | [⬇](./configs/KR_dbb6c597ac.ovpn) |
+| KR | undefined | 58.76.160.111 | 1471 | tcp | 26ms | 7.56 | 13.9 | [⬇](./configs/KR_f11af08568.ovpn) |
+| JP | undefined | 219.100.37.63 | 443 | tcp | 17ms | 24.65 | 13.9 | [⬇](./configs/JP_fb50761dd5.ovpn) |
+| KR | undefined | 222.102.95.219 | 995 | tcp | 30ms | 12.43 | 13.8 | [⬇](./configs/KR_51a273603a.ovpn) |
+| KR | undefined | 14.37.222.229 | 1251 | tcp | 33ms | 52.85 | 13.7 | [⬇](./configs/KR_0dc0193f4c.ovpn) |
+| KR | undefined | 211.192.121.223 | 995 | tcp | 32ms | 7.04 | 13.7 | [⬇](./configs/KR_52e8b7ebfc.ovpn) |
+| JP | undefined | 219.100.37.128 | 443 | tcp | 8ms | 23.00 | 13.0 | [⬇](./configs/JP_8c3870fd5f.ovpn) |
+| KR | undefined | 222.111.8.2 | 1628 | tcp | 80ms | 2.34 | 12.5 | [⬇](./configs/KR_9a8373c991.ovpn) |
+| US | undefined | 47.185.19.135 | 1414 | tcp | 0ms | 28.07 | 12.4 | [⬇](./configs/US_a39823d6c1.ovpn) |
+| JP | undefined | 219.100.37.183 | 443 | tcp | 21ms | 31.59 | 12.0 | [⬇](./configs/JP_49ad0fa2c3.ovpn) |
+| KR | undefined | 121.165.121.91 | 995 | tcp | 33ms | 0.97 | 11.4 | [⬇](./configs/KR_4702a4d27f.ovpn) |
+| JP | undefined | 118.154.9.31 | 1244 | tcp | 2ms | 66.39 | 10.7 | [⬇](./configs/JP_3a9fd3ae0e.ovpn) |
+| JP | undefined | 42.144.229.118 | 1877 | tcp | 4ms | 7.71 | 10.2 | [⬇](./configs/JP_523d37b459.ovpn) |
+| KR | undefined | 121.137.117.124 | 995 | tcp | 30ms | 39.35 | 9.9 | [⬇](./configs/KR_d56c5afa98.ovpn) |
+| JP | undefined | 116.82.239.43 | 1291 | tcp | 10ms | 23.84 | 8.4 | [⬇](./configs/JP_a103b9231b.ovpn) |
+| KR | undefined | 14.37.134.238 | 1929 | tcp | 31ms | 2.68 | 8.3 | [⬇](./configs/KR_9519f5dfb2.ovpn) |
+| JP | undefined | 60.67.47.213 | 1582 | tcp | 3ms | 44.74 | 7.9 | [⬇](./configs/JP_f7daf1c5cc.ovpn) |
+| VN | undefined | 183.81.16.214 | 1956 | tcp | 28ms | 3.68 | 7.4 | [⬇](./configs/VN_b2c3e11cc0.ovpn) |
+| KR | undefined | 59.14.213.103 | 1660 | tcp | 32ms | 2.90 | 7.3 | [⬇](./configs/KR_0d04eff579.ovpn) |
+| JP | undefined | 153.222.202.116 | 995 | tcp | 13ms | 5.43 | 7.3 | [⬇](./configs/JP_911d463fe7.ovpn) |
+| RU | undefined | 37.8.146.34 | 995 | tcp | 154ms | 2.88 | 6.7 | [⬇](./configs/RU_6669750513.ovpn) |
+| JP | undefined | 126.216.4.150 | 1580 | tcp | 6ms | 59.13 | 6.5 | [⬇](./configs/JP_14b9a0d859.ovpn) |
+| KR | undefined | 121.136.82.81 | 1915 | tcp | 31ms | 48.95 | 6.4 | [⬇](./configs/KR_8953ad8524.ovpn) |
+| JP | undefined | 118.86.233.224 | 1845 | tcp | 17ms | 32.19 | 6.4 | [⬇](./configs/JP_88fc95b8de.ovpn) |
+| JP | undefined | 153.200.131.48 | 1580 | tcp | 19ms | 32.95 | 6.0 | [⬇](./configs/JP_5563af5c7d.ovpn) |
+| KR | undefined | 118.32.42.183 | 995 | tcp | 34ms | 41.18 | 5.9 | [⬇](./configs/KR_177096a57d.ovpn) |
+| KR | undefined | 121.135.78.252 | 995 | tcp | 31ms | 18.70 | 5.7 | [⬇](./configs/KR_82342fd6f5.ovpn) |
+| RU | undefined | 178.185.24.224 | 1529 | tcp | 74ms | 3.02 | 5.6 | [⬇](./configs/RU_a057f3e94d.ovpn) |
+| PE | undefined | 190.117.30.185 | 992 | tcp | 58ms | 8.02 | 5.6 | [⬇](./configs/PE_ea0362dac0.ovpn) |
+| KR | undefined | 222.120.166.120 | 1457 | tcp | 30ms | 22.91 | 5.5 | [⬇](./configs/KR_8867323d56.ovpn) |
+| KR | undefined | 221.144.109.201 | 995 | tcp | 31ms | 46.15 | 5.5 | [⬇](./configs/KR_e831591cb5.ovpn) |
+| KR | undefined | 182.212.242.209 | 1602 | tcp | 49ms | 3.65 | 5.4 | [⬇](./configs/KR_bcbf549e30.ovpn) |
+| KR | undefined | 118.32.106.227 | 1559 | tcp | 36ms | 9.02 | 5.4 | [⬇](./configs/KR_31995a766d.ovpn) |
+| KR | undefined | 175.112.235.141 | 995 | tcp | 40ms | 43.82 | 5.1 | [⬇](./configs/KR_62947d156a.ovpn) |
+| JP | undefined | 110.134.132.27 | 1560 | tcp | 66ms | 19.15 | 4.9 | [⬇](./configs/JP_528454ee23.ovpn) |
+| JP | undefined | 42.146.135.190 | 995 | tcp | 72ms | 3.06 | 4.8 | [⬇](./configs/JP_99c460940e.ovpn) |
+| US | undefined | 24.91.193.118 | 1727 | tcp | 27ms | 17.62 | 4.4 | [⬇](./configs/US_0ee8a7d2ca.ovpn) |
+| KR | undefined | 147.47.192.180 | 995 | tcp | 41ms | 1.58 | 4.2 | [⬇](./configs/KR_1c88901fe3.ovpn) |
 | HR | undefined | 150.40.105.20 | 443 | tcp | 1ms | 20.34 | 3.9 | [⬇](./configs/HR_6f89b4feb8.ovpn) |
-| JP | undefined | 128.27.29.93 | 443 | tcp | 7ms | 0.69 | 3.9 | [⬇](./configs/JP_3f468d38c3.ovpn) |
-| JP | undefined | 202.147.210.19 | 1274 | tcp | 11ms | 1.16 | 3.8 | [⬇](./configs/JP_f38d7cbc6d.ovpn) |
-| JP | undefined | 60.108.78.245 | 1724 | tcp | 11ms | 3.75 | 3.8 | [⬇](./configs/JP_57186add2e.ovpn) |
-| JP | undefined | 60.103.49.124 | 1884 | tcp | 7ms | 25.02 | 3.7 | [⬇](./configs/JP_61962aeef4.ovpn) |
-| JP | undefined | 106.156.109.151 | 1825 | tcp | 18ms | 3.48 | 3.7 | [⬇](./configs/JP_5b76280c56.ovpn) |
+| JP | undefined | 211.2.91.28 | 1901 | tcp | 10ms | 13.24 | 3.9 | [⬇](./configs/JP_b440727598.ovpn) |
